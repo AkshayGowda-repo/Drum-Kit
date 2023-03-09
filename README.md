@@ -3,4 +3,4 @@ This is a Web Application which is working like a drum kit. it work with mouse a
 
 Live Project: https://akshaygowda-repo.github.io/Drum-Kit/
 
-To play drum kit you need to clone this rep. to local host.
+To play drum kit you need to clone this repo to local host.
